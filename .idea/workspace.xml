@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e01918b-9564-4676-ab7e-4807672de476" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/로미 - 레밸 1 회고/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/로미 - 레밸 1 회고/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;parkhyomi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/noble-notes/season1-note.git&quot;,
-    &quot;accountId&quot;: &quot;d016431c-8e0c-457c-9600-d7e764158654&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/noble-notes/Romi-s-blog.git",
+    "accountId": "d016431c-8e0c-457c-9600-d7e764158654"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -54,8 +54,8 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "1",
+    "git-widget-placeholder": "parkhyomi",
+    "git.auto.fetch.suggestion.counter": "2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/phyom/Desktop/season1-note"
   }
