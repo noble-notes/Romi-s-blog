@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e01918b-9564-4676-ab7e-4807672de476" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/레벨 2/techtalk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/레벨 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/레벨 2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
+      <entry key="_/Users/phyom/Desktop/Romi-s-blog" value="3FFk4t5X0lcgIGgF8QDGop59lBG" />
       <entry key="_/Users/phyom/Desktop/season1-note" value="3DvCsqQU3mu5p99T7K3pzJdns01" />
     </persistenceIdMap>
   </component>
@@ -30,12 +32,12 @@
     &quot;assignee&quot;: &quot;parkhyomi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/noble-notes/Romi-s-blog.git",
-    "accountId": "d016431c-8e0c-457c-9600-d7e764158654"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/noble-notes/Romi-s-blog.git&quot;,
+    &quot;accountId&quot;: &quot;d016431c-8e0c-457c-9600-d7e764158654&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -57,9 +59,14 @@
     "git-widget-placeholder": "parkhyomi",
     "git.auto.fetch.suggestion.counter": "2",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/phyom/Desktop/season1-note"
+    "last_opened_file_path": "/Users/phyom/Desktop/Romi-s-blog/레벨 2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/레벨 2" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1e01918b-9564-4676-ab7e-4807672de476" name="Changes" comment="" />

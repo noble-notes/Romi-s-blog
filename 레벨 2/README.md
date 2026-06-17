@@ -1,4 +1,4 @@
-![블로그 인트로](./init.png)
+<img src="./init.png" alt="블로그 인트로" width="1606"/>
 
 ## 테크톡이란?
 
@@ -14,7 +14,7 @@
 
 저는 5월 21일, Intent와 Navigation 화면 전환의 경계라는 주제로 발표를 진행했습니다.
 
-<img src="https://velog.velcdn.com/images/parkhyomi/post/995f2659-8daa-443a-94a0-e4a34550785b/image.PNG" alt="테크톡 발표 사진" width="600"/>
+<img src="./techtalk.png" alt="블로그 인트로" width="1606"/>
 
 [테크톡 발표 자료](https://www.notion.so/34ea6460af3c8056bb9bcfc464d559b2?source=copy_link)
 
